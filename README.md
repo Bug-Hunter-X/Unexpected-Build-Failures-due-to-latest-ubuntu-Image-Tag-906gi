@@ -1,0 +1,1 @@
+This repository contains an example of a Dockerfile that uses the `latest` tag for the ubuntu image and a corrected version that specifies a particular version. Using `latest` can lead to inconsistent builds due to changes in the base image. This can introduce hidden bugs, making debugging more difficult.
